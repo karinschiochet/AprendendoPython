@@ -80,5 +80,3 @@ Exercício 8: Calculadora de Descontos
 preco_original = 150.0
 desconto_percentual = 15  # 15%
 valor_minimo_frete_gratis = 100.0
-
-Exercício 9: Manipulador de Texto
