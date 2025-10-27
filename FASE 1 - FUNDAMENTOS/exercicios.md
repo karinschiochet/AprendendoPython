@@ -1,3 +1,5 @@
+🧪 Exercícios Práticos
+
 Exercício 1: Calculadora Básica
 Crie um programa que:
 1. Peça dois números ao usuário.
@@ -46,7 +48,8 @@ Desenvolva um sistema simples de contatos onde:
 3. Liste todos os contatos.
 
 Exemplo:
-`1 - Adicionar contato
+`
+1 - Adicionar contato
 2 - Buscar contato
 3 - Listar todos
 Opção: 1
@@ -65,3 +68,17 @@ Exemplo:
 `Digite uma senha: Python3
 Senha válida? True`
 
+Exercício 6: Calculadora de IMC
+# Calcule o Índice de Massa Corporal
+# IMC = peso / (altura ** 2)
+
+Exercício 7: Validador de Email Simples
+# Verifica se tem @ e .
+
+Exercício 8: Calculadora de Descontos
+# Calcule preço com desconto e verifique elegibilidade para frete grátis
+preco_original = 150.0
+desconto_percentual = 15  # 15%
+valor_minimo_frete_gratis = 100.0
+
+Exercício 9: Manipulador de Texto
