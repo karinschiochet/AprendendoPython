@@ -178,3 +178,16 @@ def subtrair(x, y):
 #######
 print(aplicar_operacao(10, 5, somar))     # 15
 print(aplicar_operacao(10, 5, subtrair))  # 5`
+
+💡 Boas Práticas com Funções
+1. Nomes Descritivos
+2. Funções Pequenas e Específicas
+3. Documentação com Docstrings
+4. Valores Padrão Apropriados
+
+🎯 Próximos Passos
+
+* Pratique criando funções para problemas do dia a dia
+* Experimente com diferentes tipos de parâmetros
+* Combine funções para construir programas mais complexos
+* Estude funções built-in do Python como map(), filter(), e reduce()
