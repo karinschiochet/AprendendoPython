@@ -1,6 +1,7 @@
 🧪 Exercícios Práticos
 
 📝 **Exercício 1:** Calculadora de Operações Básicas
+
 Enunciado: Crie uma função chamada calculadora que recebe dois números e uma operação (+, -, *, /) como parâmetros 
 e retorna o resultado da operação.
 
